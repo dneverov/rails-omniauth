@@ -30,7 +30,8 @@ gem 'omniauth'
 gem 'omniauth-twitter'
 gem 'pg', '~> 0.18'
 gem 'slim-rails'
-gem 'therubyracer', :platform=>:ruby
+#gem 'therubyracer', :platform=>:ruby
+gem 'mini_racer'
 group :development do
   gem 'better_errors'
   gem 'hub', :require=>nil

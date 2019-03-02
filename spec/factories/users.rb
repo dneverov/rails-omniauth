@@ -1,5 +1,5 @@
-FactoryBot.define do
-  factory :user do
-    name "Test User"
-  end
-end
+# FactoryBot.define do
+#   factory :user do
+#     name "Test User"
+#   end
+# end

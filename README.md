@@ -1,6 +1,29 @@
 Rails Omniauth
 ================
 
+From: https://github.com/RailsApps/rails-omniauth
+
+## Getting the Application
+
+### Generate
+
+Using the Rails Composer tool to generate a new version of the example app.
+
+`$ rails new rails-omniauth -m https://raw.github.com/RailsApps/rails-composer/master/composer.rb`
+
+Next:
+
+`cd /var/www/workspace/rails-omniauth`
+`$ rails server` -- F&ck
+
+`gem install bundler
+bundle install
+rails server` -- F&ck
+
+
+
+
+================
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
